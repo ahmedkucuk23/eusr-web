@@ -1,1 +1,67 @@
-// Specific CSS for your home-page
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@100;200;300&display=swap');
+body{
+  background-color:#fff;
+}
+.main_jpg{
+  width: 100%;
+}
+
+.section_1_header{
+  padding-top: 0px;
+  font-family:  FranklinGothic-Demi;
+  font-size: 38.5px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+}
+.section_1_para{
+  padding-top:20px;
+  font-family: 'Libre Franklin', sans-serif;
+  font-size: 24px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000000;
+  padding-bottom: 40px;
+}
+.letvica{
+  padding: 20px 0;
+}
+.rectangle_blue{
+  background-color: #41c6f2;
+  height: 100px;
+  display: block;
+}
+.rectangle_purple{
+  background-color: #be2b92;
+  height: 100px;
+  display: block;
+}
+.broj{
+  font-family: FranklinGothic-Demi;
+  font-size: 77px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #f6891e;
+}
+.broj_text{
+  font-family: 'Libre Franklin', sans-serif;
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #f6891e;
+}
