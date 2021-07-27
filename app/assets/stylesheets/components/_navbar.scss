@@ -1,6 +1,9 @@
 .navbar-lewagon {
   justify-content: space-between;
   background: white;
+  text-align:center;
+  font-family: 'Libre Franklin', sans-serif;
+  font-weight:600;
 }
 
 .navbar-lewagon .navbar-collapse {
@@ -8,5 +11,9 @@
 }
 
 .navbar-lewagon .navbar-brand img {
-  width: 40px;
+  width: 50px;
+}
+
+.navbar-toggler{
+  border: 0;
 }

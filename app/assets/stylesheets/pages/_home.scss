@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@100;200;300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@100;200;300;600;700&display=swap');
 body{
   background-color:#fff;
 }
@@ -8,9 +8,9 @@ body{
 
 .section_1_header{
   padding-top: 0px;
-  font-family:  FranklinGothic-Demi;
+  font-family: 'Libre Franklin', sans-serif;
   font-size: 38.5px;
-  font-weight: normal;
+  font-weight: 700;
   font-stretch: normal;
   font-style: normal;
   line-height: normal;
@@ -44,9 +44,9 @@ body{
   display: block;
 }
 .broj{
-  font-family: FranklinGothic-Demi;
+  font-family: 'Libre Franklin', sans-serif;
   font-size: 77px;
-  font-weight: normal;
+  font-weight: 700;
   font-stretch: normal;
   font-style: normal;
   line-height: normal;
