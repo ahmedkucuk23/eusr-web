@@ -5,6 +5,15 @@ body{
 .main_jpg{
   width: 100%;
 }
+.home_video {
+  padding-top:80px;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  object-fit: cover;
+  left:0;
+}
 
 .section_1_header{
   padding-top: 90px;
