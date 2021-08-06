@@ -7,12 +7,20 @@ body{
 }
 .home_video {
   padding-top:80px;
-  width: 100vw;
-  height: 100vh;
+  width: 100%;
+  height:100vh;
+  object-fit:cover;
   display: flex;
   justify-content: center;
-  object-fit: cover;
-  left:0;
+  align-items: center;
+
+}
+@media screen and (max-width: 900px) {
+.home_video{
+  width:100%;
+  object-fit: contain;
+  height:100%;
+  }
 }
 
 .section_1_header{
